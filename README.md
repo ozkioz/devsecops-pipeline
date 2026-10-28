@@ -1,5 +1,7 @@
 # DevSecOps Pipeline
 
+![CI](https://github.com/ozkioz/devsecops-pipeline/actions/workflows/ci.yml/badge.svg)
+
 Projekt portfolio pokazujący pełny pipeline CI/CD z elementami bezpieczeństwa (DevSecOps): od kodu, przez testy i skanowanie podatności, po kontrolowane wdrożenie na środowiska dev i prod.
 
 > **Status:** w trakcie budowy. Zrobione: aplikacja, testy, kontener Docker. Następne: CI w GitHub Actions, skany bezpieczeństwa, wdrożenie.
