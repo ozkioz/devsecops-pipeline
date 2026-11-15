@@ -8,7 +8,6 @@ Aplikacja jest celowo prosta, bo celem projektu jest **proces dostarczania i jeg
 
 ## Jak działa pipeline
 
-```mermaid
 flowchart LR
     A[Pull Request] --> B[Lint + testy]
     A --> C[Gitleaks: skan sekretów]
